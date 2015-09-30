@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經注疏
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:18:00.190305
+#+PROPERTY: ID KR1f0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1f0004_WYG_008-1a>¶
 欽定四庫全書¶
 　孝經注疏卷八¶
@@ -128,6 +130,7 @@
 　¶
 　¶
 　孝經注疏卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR1f0004_WYG_008-8a>¶
 　孝經注疏卷八考證¶
 感應章○古文此章在君子之教以孝也章之下君子¶
@@ -146,4 +149,3 @@
 　¶
 　¶
 　孝經注疏卷八考證¶
-

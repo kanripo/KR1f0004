@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經注疏
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:18:00.226576
+#+PROPERTY: ID KR1f0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋語
 <pb:KR1f0004_WYG_010-1a>¶
 　　少詹事(臣/)李清植謹言按孝經一書乃西銘理一¶
 　　分殊之說所自本盖孝於父母者必心父母之心¶
@@ -15,4 +17,3 @@
 敕校勘謹詳攷古文今文及朱子刋誤本臚其同異以¶
 　　備叅證而注疏家有舛略者亦附而論之(臣清植/)¶
 　　(謹識/)¶
-

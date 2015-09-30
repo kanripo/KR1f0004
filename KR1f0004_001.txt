@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經注疏
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:18:00.078128
+#+PROPERTY: ID KR1f0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1f0004_WYG_001-1a>¶
 欽定四庫全書¶
 　孝經注疏卷一¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　孝經注疏卷一¶
+#+PROPERTY: JUAN 卷一考證
 <pb:KR1f0004_WYG_001-11a>¶
 　孝經注疏卷一考證¶
 開宗明義章○朱子刋誤本但有分章章名悉削去¶
@@ -218,4 +221,3 @@
 　¶
 　¶
 　孝經注疏卷一考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經注疏
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:18:00.107981
+#+PROPERTY: ID KR1f0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1f0004_WYG_003-1a>¶
 欽定四庫全書¶
 　孝經注疏卷三¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　孝經注疏卷三¶
+#+PROPERTY: JUAN 卷三考證
 <pb:KR1f0004_WYG_003-9a>¶
 　孝經注疏卷三考證¶
 庶人章○朱子刊誤云自篇首至此章當合爲一章孝¶
@@ -182,4 +185,3 @@
 　¶
 　¶
 　孝經注疏卷三考證¶
-

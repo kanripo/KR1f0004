@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經注疏
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:18:00.148838
+#+PROPERTY: ID KR1f0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1f0004_WYG_006-1a>¶
 欽定四庫全書¶
 　孝經注疏卷六¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　孝經注疏卷六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR1f0004_WYG_006-9a>¶
 　孝經注疏卷六考證¶
 孝子之事親也○古文無也字¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　孝經注疏卷六考證¶
-
